@@ -5,7 +5,7 @@
 ## Getting Started
 
 To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Bootstrap Ocean](http://www.bootstrapocean.com/theme/preview/bootstrapocean-2col-portfolio-filtered/)
+* [Download the latest release on Bootstrap Ocean](http://www.bootstrapocean.com/theme/bootstrapocean-2col-portfolio-filtered/)
 * Clone the repo: `git clone https://github.com/ckissi/bootstrapocean-2col-portfolio-filtered.git`
 * Fork the repo
 
