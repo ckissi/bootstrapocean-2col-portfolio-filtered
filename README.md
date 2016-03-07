@@ -1,17 +1,17 @@
-# [Bootstrap Ocean](http://www.bootstrapocean.com/) - [2 Col Portfolio](http://www.bootstrapocean.com/preview/bootstrapocean-2col-portfolio-filtered/)
+# [Bootstrap Ocean](http://www.bootstrapocean.com/) - [2 Col Portfolio](http://www.bootstrapocean.com/theme/theme/preview/bootstrapocean-2col-portfolio-filtered/)
 
-[2 Col Portfolio](http://www.bootstrapocean.com/preview/bootstrapocean-2col-portfolio-filtered/) is a two column portfolio template for [Bootstrap](http://www.bootstrapocean.com/) created by [Bootstrap Ocean](http://www.bootstrapocean.com/).
+[2 Col Portfolio](http://www.bootstrapocean.com/theme/preview/bootstrapocean-2col-portfolio-filtered/) is a two column portfolio template for [Bootstrap](http://www.bootstrapocean.com/) created by [Bootstrap Ocean](http://www.bootstrapocean.com/).
 
 ## Getting Started
 
 To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Bootstrap Ocean](http://www.bootstrapocean.com/preview/bootstrapocean-2col-portfolio-filtered/)
+* [Download the latest release on Bootstrap Ocean](http://www.bootstrapocean.com/theme/preview/bootstrapocean-2col-portfolio-filtered/)
 * Clone the repo: `git clone https://github.com/ckissi/bootstrapocean-2col-portfolio-filtered.git`
 * Fork the repo
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/ckissi/bootstrapocean-2col-portfolio-filtered/issues) here on GitHub or leave a comment on the [template overview page at Bootstrap Ocean](http://www.bootstrapocean.com/preview/bootstrapocean-2col-portfolio-filtered/).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/ckissi/bootstrapocean-2col-portfolio-filtered/issues) here on GitHub or leave a comment on the [template overview page at Bootstrap Ocean](http://www.bootstrapocean.com/theme/preview/bootstrapocean-2col-portfolio-filtered/).
 
 ## Creator
 
